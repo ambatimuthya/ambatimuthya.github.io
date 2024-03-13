@@ -7,7 +7,7 @@ echo "Running Git Commit"
 git commit -m "temp commit"
 
 echo "Running Git Push"
-git push
+git push origin main
 
 echo "Deploying pages"
 npm run deploy
