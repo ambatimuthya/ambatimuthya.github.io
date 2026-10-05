@@ -33,7 +33,6 @@ Gokaraju Rangaraju Institute of Engineering and Technology
 
 # Hobbies
 
-- Playing Badminton
 - Hiking
-- Exploring Places
+- Yoga
 
