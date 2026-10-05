@@ -25,6 +25,26 @@ const skills = [
     category: ['Scripting', 'Languages'],
   },
   {
+    title: 'TCL',
+    competency: 3,
+    category: ['Scripting', 'Languages'],
+  },
+  {
+    title: 'FPGA Design Flows',
+    competency: 3,
+    category: ['Tools & Technologies', 'ASIC Design'],
+  },
+  {
+    title: 'Ethernet (MAC/PCS)',
+    competency: 3,
+    category: ['Networking', 'Tools & Technologies'],
+  },
+  {
+    title: 'AXI4 / AXI-Stream',
+    competency: 3,
+    category: ['Networking', 'ASIC Design'],
+  },
+  {
     title: 'Modelsim',
     competency: 3,
     category: ['Tools & Technologies', 'ASIC Design'],

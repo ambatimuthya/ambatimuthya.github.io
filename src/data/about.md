@@ -1,7 +1,7 @@
 
 # Intro
 
-Hello! I'm a Senior Validation Engineer at *Microchip Technology*, working on FPGA soft-IP development and Ethernet validation. I have a strong foundation in electronics and communication engineering, with prior industry experience as an Embedded Engineer. My academic journey at *North Carolina State University* and at *Visvesvaraya National Institute of Technology* has equipped me with a deep understanding of microprocessor architecture, ASIC design, and embedded systems, reflected in my perfect GPA.
+Hello! I'm a Senior Validation Engineer at *Microchip Technology*, working on FPGA soft-IP development and Ethernet validation. I have a strong foundation in electronics and communication engineering, with prior industry experience as an Embedded Engineer. My academic journey at *North Carolina State University* and at *Visvesvaraya National Institute of Technology* has equipped me with a deep understanding of microprocessor architecture, ASIC design, and embedded systems, reflected in my 3.9/4.0 GPA at NC State.
 
 <br>
 In the professional realm, I've honed my skills at companies like Microchip Technology and AMD-Xilinx and contributed to cutting-edge research at the Secure and Advanced Computer Architecture Lab. My technical toolbox is filled with programming languages and technologies like C++, Python, and System Verilog, complemented by proficiency in key industry tools and protocols.
