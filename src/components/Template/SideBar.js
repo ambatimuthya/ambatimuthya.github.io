@@ -20,9 +20,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hey!, I&apos;m Muthya. I am a Senior Validation Engineer at <a href="https://www.microchip.com/">Microchip Technology</a>,
-        an <a href="https://www.ece.ncsu.edu/">NC State</a> and <a href="https://www.vnit.ac.in/">NIT Nagpur</a> Alumni. Previously,
-        I worked as a Product Development Intern at <a href="https://www.xilinx.com/products/technology/ai-engine.html">AMD</a>
-        , and as an Embedded Engineer at <a href="https://www.gilbarco.com/us/">Gilbarco Veeder-Root</a>.
+        validating the software tools used for FPGA programming and high-speed
+        Ethernet/MACsec on silicon, and a co-inventor on a pending U.S. patent
+        for FPGA trigger routing. I&apos;m an
+        {' '}<a href="https://www.ece.ncsu.edu/">NC State</a> and
+        {' '}<a href="https://www.vnit.ac.in/">NIT Nagpur</a> alumni.
+        Previously, I worked at
+        {' '}<a href="https://www.xilinx.com/products/technology/ai-engine.html">AMD</a> and
+        {' '}at <a href="https://www.gilbarco.com/us/">Gilbarco Veeder-Root</a>.
       </p>
       <ul className="actions">
         <li>
