@@ -10,7 +10,7 @@ I work closely with cross-functional teams throughout the silicon bring-up proce
 My curiosity extends into research as well. During my M.S. in Computer Engineering at *North Carolina State University*, I worked on projects that deepened my ASIC design and computer architecture skills, and I served as a research assistant working on HPC simulators. My technical toolbox includes C++, Python, SystemVerilog and TCL, along with protocols like Ethernet, AXI4, I2C, SPI and UART.
 
 <br>
-I'm always looking to contribute to impactful projects, especially those that power AI/ML infrastructure at scale, and to keep learning along the way.
+I'm always looking to contribute to impactful projects, especially those that power AI infrastructure at scale, and to keep learning along the way.
 
 # Patents and Publications
 
