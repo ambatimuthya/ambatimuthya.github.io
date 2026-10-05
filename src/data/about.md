@@ -1,13 +1,13 @@
 
 # Intro
 
-Hello! I'm a driven Computer Engineering graduate student with a strong foundation in electronics and communication engineering with 2 years of Industry experience as an Embedded Engineer. My academic journey at *North Carolina State University* and at *Visvesvaraya National Institute of Technology* has equipped me with a deep understanding of microprocessor architecture, ASIC design, and embedded systems, reflected in my perfect GPA.
+Hello! I'm a Senior Validation Engineer at *Microchip Technology*, working on FPGA soft-IP development and Ethernet validation. I have a strong foundation in electronics and communication engineering, with prior industry experience as an Embedded Engineer. My academic journey at *North Carolina State University* and at *Visvesvaraya National Institute of Technology* has equipped me with a deep understanding of microprocessor architecture, ASIC design, and embedded systems, reflected in my perfect GPA.
 
 <br>
-In the professional realm, I've honed my skills at prestigious institutions like AMD-Xilinx and contributed to cutting-edge research at the Secure and Advanced Computer Architecture Lab. My technical toolbox is filled with programming languages and technologies like C++, Python, and System Verilog, complemented by proficiency in key industry tools and protocols.
+In the professional realm, I've honed my skills at companies like Microchip Technology and AMD-Xilinx and contributed to cutting-edge research at the Secure and Advanced Computer Architecture Lab. My technical toolbox is filled with programming languages and technologies like C++, Python, and System Verilog, complemented by proficiency in key industry tools and protocols.
 
 <br>
-I am passionate about leveraging my expertise in SoC development, FPGA prototyping, and embedded systems to craft innovative solutions. I'm eager to join a dynamic team where I can contribute to impactful projects and continue my journey of learning and professional growth.
+I am passionate about leveraging my expertise in SoC development, FPGA prototyping, and embedded systems to craft innovative solutions. I'm always looking to contribute to impactful projects and continue my journey of learning and professional growth.
 
 <!-- 
 # EDUCATION

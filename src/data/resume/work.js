@@ -13,51 +13,68 @@
  */
 const work = [
   {
-    name: 'AMD-Xilinx Inc.',
-    position: 'AI Engine Development Intern',
-    url: 'https://www.xilinx.com/products/technology/ai-engine.html',
-    startDate: '2022-09-11',
-    endDate: '2022-12-15',
-    summary: `The AI Engine introduced by AMD as part of the Versal™ Adaptive Compute Acceleration Platform (ACAP) represents a 
-    cutting-edge processing technology designed to meet the escalating demands for compute acceleration while maintaining energy 
-    efficiency in dynamic sectors like 5G, data centers, automotive, and industrial applications.`,
+    name: 'Microchip Technology Inc',
+    position: 'Senior Validation Engineer - I',
+    url: 'https://www.microchip.com/',
+    startDate: '2024-06-01',
+    summary: `Microchip Technology develops microcontroller, mixed-signal, analog and FPGA solutions for embedded
+    control applications. Based in San Jose, CA.`,
     highlights: [
-      `Demonstrated an optimized Stamp and Repeat wrapper module to automate placement and route of kernels on the Versal FPGA AI 
-      Engine array for multi layered ML architectures, resulting in reduction of compilation time by 10%(approx).\n`,
-      `Developed software leveraging OOP concepts, to manage location constraints while routing tiles on a 50x8 AI Engine chip layout. 
-      This led to significant improvement in code organization and scalability for high computing applications.`,
+      `Developed RTL for high-performance soft-IPs, including a Fabric AXI4 master and a custom one-logic-level embedded logic analyzer;
+      supported verification and validation in the lab, performed STA, and achieved a highly pipelined design meeting the 500MHz
+      target frequency on PolarFire2X FPGA.`,
+      `Validated Ethernet links at 25G, 50G and 100G on the MAC/PCS datapath, by developing tests for link establishment through lane mapping,
+      swizzle logic, AN/LT; and verified error handling and recovery by implementing RS-FEC error handling tests and soak tests for cable
+      pull-and-restore, with the help of an Ethernet Traffic generator/analyzer.`,
+      `Brought up MACsec network-encryption validation use cases for AES bulk encryption. Defined ECC error-injection tests on the encrypt and
+      decrypt SA RAMs to verify error handling in the security datapath for ethernet traffic.`,
+      `Automated Ethernet soak testing on Viavi test equipment by scripting traffic configurations, developed an Ethernet Validation Assistant
+      chatbot and built an AI-assisted Python tooling to streamline Jira-to-Excel project tracking, boosting team efficiency and data
+      management by using AI tools.`,
     ],
   },
   {
-    name: 'NC State University',
+    name: 'Advance Micro Devices (AMD-Xilinx)',
+    position: 'Product Development Intern',
+    url: 'https://www.xilinx.com/products/technology/ai-engine.html',
+    startDate: '2023-09-01',
+    endDate: '2023-12-31',
+    summary: `The AI Engine introduced by AMD as part of the Versal™ Adaptive Compute Acceleration Platform (ACAP) represents a
+    cutting-edge processing technology designed to meet the escalating demands for compute acceleration while maintaining energy
+    efficiency in dynamic sectors like 5G, data centers, automotive, and industrial applications.`,
+    highlights: [
+      `Developed an optimised Stamp and Repeat wrapper module, using OOP concepts to manage location constraints, to automate placement and
+      routing of kernels on the 50x8 Versal FPGA AI Engine array for multi-layered ML architectures, reducing compilation time by 10%
+      (approx) and improving scalability for high-compute applications.`,
+    ],
+  },
+  {
+    name: 'Secure and Advanced Computer Architecture Lab (NC State University)',
     position: 'Graduate Research Assistant',
     url: 'https://sacagroup.github.io/',
-    startDate: '2020-01-09',
-    endDate: '2022-04-30',
-    summary: `This research group works on cutting-edge problems in computer architecture and high-performance computing systems, 
+    startDate: '2023-01-01',
+    endDate: '2023-04-30',
+    summary: `This research group works on cutting-edge problems in computer architecture and high-performance computing systems,
     with a focus on secure architectures and memory systems.`,
     highlights: [
-      `Implemented python scripts for including port specifications and statistics like IPC, number of memory transactions, 
-      to be recorded while simulating the target RTL model to generate its corresponding SST component for simulation runs.`,
-      `Contributed to the development of the Structural Simulation Toolkit (SST) simulator by actively working on the 
-      integration of multiple instances of RTL/C models to facilitate co-simulation of performance models and RTL.`,
+      `Contributed to the Structural Simulation Toolkit (SST), an HPC simulator, by developing Python scripts to auto-generate RTL-based SST
+      components and integrating multiple RTL/C model instances for co-simulation, then analysed performance metrics including IPC and memory
+      transactions across varying memory configurations.`,
     ],
   },
   {
     name: 'Gilbarco Veeder-Root',
     position: 'Embedded Engineer',
     url: 'https://www.gilbarco.com/us/',
-    startDate: '2021-08-04',
-    endDate: '2022-07-30',
+    startDate: '2020-08-01',
+    endDate: '2022-07-31',
     summary: `Gilbarco Veeder-Root is a leading global provider of fuel dispensing equipment, payment systems, and technology solutions
-     for retail and commercial fueling operations. The company specializes in developing innovative products to enhance efficiency, security, 
+     for retail and commercial fueling operations. The company specializes in developing innovative products to enhance efficiency, security,
      and customer experience at fuel stations.`,
     highlights: [
-      `Developed and debugged firmware for fuel dispensers on 32-bit STM32 Arm Cortex-M controllers, focusing on device drivers such as 
-      GPIO, RS485 and customized USART and I2C libraries to minimize EMI/EMC noise in the field.`,
-      `Designed an RS485 communication circuit with isolated ports using optocouplers for AdBlue fuel dispensers using Altium designer tool. 
-      Post fabrication, validated the circuit’s performance and protocol compliance by transmitting data from the processor and observing 
-      reception on the PCB board via DSO oscilloscope.`,
+      `Developed and debugged STM32 (32-bit Arm Cortex-M) firmware including custom GPIO, RS485, USART, and I2C drivers optimised to minimise
+      field EMI/EMC noise and designed an isolated, optocoupler-based RS485 circuit in Altium Designer, validating protocol compliance and
+      signal integrity post-fabrication via DSO oscilloscope.`,
     ],
   },
 ];

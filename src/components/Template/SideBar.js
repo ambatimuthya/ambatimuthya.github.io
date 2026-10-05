@@ -19,8 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hey!, I&apos;m Muthya. I am a <a href="https://www.ece.ncsu.edu/">NC State</a> graduate student, <a href="https://www.vnit.ac.in/">NIT Nagpur</a> Alumni. Previously,
-        I worked as a AI Engine Development Intern at <a href="https://www.xilinx.com/products/technology/ai-engine.html">AMD</a>
+      <p>Hey!, I&apos;m Muthya. I am a Senior Validation Engineer at <a href="https://www.microchip.com/">Microchip Technology</a>,
+        an <a href="https://www.ece.ncsu.edu/">NC State</a> and <a href="https://www.vnit.ac.in/">NIT Nagpur</a> Alumni. Previously,
+        I worked as a Product Development Intern at <a href="https://www.xilinx.com/products/technology/ai-engine.html">AMD</a>
         , and as an Embedded Engineer at <a href="https://www.gilbarco.com/us/">Gilbarco Veeder-Root</a>.
       </p>
       <ul className="actions">
