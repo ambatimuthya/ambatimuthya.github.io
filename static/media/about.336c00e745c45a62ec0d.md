@@ -1,7 +1,7 @@
 
 # Intro
 
-Hi! I'm Muthya Ambati, a curious, detail-oriented Senior Validation Engineer at *Microchip Technology*, working at the intersection of silicon development and system reliability. Validation is the core of my work: on the FPGA side, that means validating the software tools used for FPGA programming, along with hands-on debugging and bring-up of silicon in the lab. I've taken ownership from developing system-level designs to validating high-speed Ethernet and MACsec on FPGA platforms.
+Hi, I'm Muthya Ambati, a curious and detail-oriented Senior Validation Engineer at *Microchip Technology*. I work where silicon development meets system reliability. Validation is the heart of my job: on the FPGA team, I validate the software tools used to program FPGAs, and I spend plenty of time in the lab debugging and bringing up silicon. I've owned work end to end, from developing system-level designs to validating high-speed Ethernet and MACsec on FPGA platforms.
 
 <br>
 I work closely with cross-functional teams throughout the silicon bring-up process, and clear communication is a big part of keeping end-to-end validation workflows moving. I also actively look for ways to bring AI into my workflow, building tools that reduce manual effort and help my team work more efficiently.
