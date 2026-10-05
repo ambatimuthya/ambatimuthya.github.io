@@ -18,9 +18,8 @@ const work = [
     url: 'https://www.microchip.com/',
     startDate: '2024-06-01',
     summary: `Microchip Technology develops microcontroller, mixed-signal, analog and FPGA solutions for embedded
-    control applications. On the FPGA validation team, my main focus is validating the software tools used for FPGA
-    programming, along with silicon bring-up and validation of high-speed Ethernet and MACsec, working closely with
-    cross-functional teams.`,
+    control applications. On the FPGA validation team, my main focus is silicon bring-up and validation of
+    high-speed Ethernet and MACsec, working closely with cross-functional teams.`,
     highlights: [
       `Developed RTL for high-performance soft-IPs, including a Fabric AXI4 master and a custom one-logic-level embedded logic analyzer;
       supported verification and validation in the lab, performed STA, and achieved a highly pipelined design meeting the 500MHz
